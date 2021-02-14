@@ -1,2 +1,7 @@
-# synth_doc_generation
+# Sythentic Document Generation with Generative Adverserial Networks 
+
 ICDAR 2021 Layout generation 
+
+* NEW MODEL WITH A MODIFIED ARCHITECTURE FOR 128x128 IMAGES HAS BEEN ADDED 
+* FID and INCEPTION SCORES TO BE COMPUTED
+* USER CONSTRAINED GENERATION OF DOCUMENTS HAS BEEN ADDED
