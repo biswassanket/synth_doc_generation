@@ -7,7 +7,7 @@
 
 <p align="center">
   
-### The work will feature in <a href="https://icdar2021.org/">16th ICDAR 2021 (Lausanne, Switzerland)</a>.
+#### The work will feature in <a href="https://icdar2021.org/">16th ICDAR 2021 (Lausanne, Switzerland)</a>.
 
 ### Getting Started
   
